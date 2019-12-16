@@ -1,2 +1,3 @@
-# marathon
-just a rookie running a marathon.
+# USTC
+school of computer science of USTC
+contains teaching material,  answers, code, ppt...
