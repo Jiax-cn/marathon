@@ -1,3 +1,2 @@
-# USTC
-school of computer science of USTC
-contains teaching material,  answers, code, ppt...
+# Computer Networking: A Top-Down Approach
+the 6th edition.
