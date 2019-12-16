@@ -1,2 +1,2 @@
-# Computer Networking: A Top-Down Approach
-the 6th edition.
+# marathon
+just a rookie running a marathon
